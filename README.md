@@ -1,2 +1,2 @@
 # Linear-Regression-Python
-Linear Regression using python with R plots
+Linear Regression using python with plots same as R ggplot.
